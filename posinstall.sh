@@ -17,7 +17,7 @@ skip_stage=0
 f_installed=
 f_n_installed=
 
-arquivo_lista="$HOME/lista-pacotes" # trocar para $HOME/.config/posinstall/
+arquivo_lista="$HOME/pacotes-utilizados" # trocar para $HOME/.config/posinstall/
 
 declare -a instalados
 declare -a nao_instalados
