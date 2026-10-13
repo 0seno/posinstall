@@ -215,7 +215,6 @@ else
     echo -e "\nPulando Estágio 1"
 fi
 
-exit 0
 # Estágio 2
 echo -e "\nEstágio 2: Configurando dotfiles...\n"
 while [[ -z "$git_user" ]]; do
