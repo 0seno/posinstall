@@ -164,3 +164,5 @@ yad
 zathura
 zip
 zstd
+libnotify-bin
+ssh
